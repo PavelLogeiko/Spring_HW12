@@ -13,17 +13,19 @@
 
 Spring Integration
 
-![0]()
+![0](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/0.png)
 
-![0]()
+![1](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/1.png)
 
-![0]()
+![2](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/2.png)
 
-![0]()
+![4](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/4.png)
+
+![5](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/5.png)
 
 Использование паттернов проектирования (на примере паттерна - Service Layer)
 
-![0]()
+![3](https://github.com/PavelLogeiko/Spring_HW12/blob/main/images/3.png)
 
 
 
